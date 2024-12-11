@@ -1,0 +1,27 @@
+img{
+
+    width: 200px;
+    
+}
+
+.main{
+  position: absolute;
+    
+    margin-bottom: 200px;
+}
+
+.cont{
+    display: flex;
+  justify-content: center;
+   
+    align-items: center;
+    height: 100vh;
+}
+
+#inp #btn{ 
+    position: absolute;
+}
+
+#h1{
+    position: relative;
+}
